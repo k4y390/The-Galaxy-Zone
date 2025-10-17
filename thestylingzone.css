@@ -1,0 +1,387 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+body {
+  background: darkslateblue;
+  font-family: "Agdasima"
+}
+ul {
+  display: inline-block;
+  list-style: none;
+}
+nav ul{
+display: flex;
+list-style: none;
+}
+li {
+  margin: 10px;
+}
+li span{
+background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/4_Point_Star.png?v=1689863392328");
+background-size: 18px;
+background-repeat: no-repeat;
+padding: 0px 20px;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+img#logo {
+  width: 170px;
+  height: 170px;
+  margin-right: 650px;
+  }
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 65px;
+}
+p{
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+div#box-1 {
+  background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/galaxy%20with%20hole%20gif.gif?v=1689354735373");
+  border: white 3.5px solid;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+div#box-2{
+  background: black;
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: white 2.5px solid;
+}
+div#box-3{
+  background: black;
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: white 2.5px solid;
+  text-align: center;
+}
+div#box-4{
+  background: black;
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: white 2.5px solid;
+  text-align: center;
+}
+div#box-5{
+  background: black;
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: white 2.5px solid;
+  text-align: center;
+}
+h4{
+text-align: center;
+color: white;
+font-size: 15px;
+}
+div#box-6 {
+background: black;
+max-width: 75%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+text-align: center;
+font-size: 20px;
+}
+div#box-7{
+background: black;
+max-width: 15%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+h2{
+text-align: center;
+color: white;
+font-size: 55px;
+}
+img#ngc6872{
+  width: 370px;
+  height: 370px;
+  border: white 2.5px solid;
+}
+img#m87{
+  width: 370px;
+  height: 370px;
+  border: white 2.5px solid;
+}
+img#ic3583{
+width: 370px;
+height: 370px;
+border: white 2.5px solid;
+}
+img#ic1101{
+width: 370px;
+height: 370px;
+border: white 2.5px solid;
+}
+img#hercules-a{
+width: 370px;
+height: 370px;
+border: white 2.5px solid;
+}
+img#eso306-17{
+width: 370px;
+height: 370px;
+border: white 2.5px solid;
+}
+img#cometgalaxy{
+width: 370px;
+height: 370px;
+border: white 2.5px solid;
+}
+img#andromedagalaxy{
+width: 370px;
+height: 370px;
+border: white 2.5px solid;
+}
+div#ab-box-1 {
+  background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/purplegalaxy.jfif?v=1689258729179");
+  border: white 3.5px solid;
+  padding: 5px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+div#ab-box-2 {
+  background: black;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: white 2.5px solid;
+}
+h4 {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
+div#ab-box-3 {
+background: black;
+max-width: 15%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+div#se-box-1 {
+background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/IMG_0323.jpeg?v=1689622330301");
+border: white 3.5px solid;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+div#se-box-2 {
+background: black;
+max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+div#se-box-3 {
+background: black;
+max-width: 15%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+div#hm-box-1 {
+background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/galaxy-1?v=1689174246801");
+border: white 3.5px solid;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+div#hm-box-2 {
+background: black;
+max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+text-align: center;
+font-size: 20px;
+color: white;
+}
+div#hm-box-3 {
+background: black;
+max-width: 15%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+h4 {
+text-align: center;
+color: white;
+font-size: 15px;
+}
+div#pg-box-1 {
+background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/galaxy2.jpg?v=1689602836722");
+border: white 3.5px solid;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+div#pg-box-2{
+background: black;
+max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+text-align: center;
+}
+div#pg-box-3{
+background: black;
+max-width: 15%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+div#gn-box-1 {
+background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/galaxy4.jpg?v=1689693294743");
+border: white 3.5px solid;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+div#gn-box-2 {
+background: black;
+max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+text-align: center;
+font-size: 25px;
+}
+div#gn-box-3 {
+background: black;
+max-width: 15%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+div#set-box-1 {
+background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/IMG_0324.jpeg?v=1689622539702");
+border: white 3.5px solid;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+div#set-box-2{
+background: black;
+max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+div#ar-box-1{
+background: url("https://cdn.glitch.global/a3659c66-41ee-4014-85d9-63d53fc11ea7/spiral%20galaxy.1.jpg?v=1689700727022");
+border: white 3.5px solid;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+div#ar-box-2{
+background: black;
+max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+text-align: center;
+font-size: 35px;
+}
+div#ar-box-3{
+background: black;
+max-width: 15%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+border: white 2.5px solid;
+}
+.light{
+background-color: darkslateblue;
+}
+.dark{
+background-color: black;
+}
+h1 + p + div{
+text-align: center;
+}
