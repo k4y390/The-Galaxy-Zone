@@ -378,15 +378,15 @@ border: white 2.5px solid;
 }
 div#andgal-box1{
 background: url(https://upload.wikimedia.org/wikipedia/commons/d/dd/Andromeda_Galaxy_2025.jpg);
-max-width: 70%;
+border: white 3.5px solid;
 margin-left: auto;
 margin-right: auto;
 margin-top: 10px;
 margin-bottom: 10px;
 padding: 5px;
-border: white 2.5px solid;
-text-align: center;
-font-size: 35px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
 }
 .light{
 background-color: darkslateblue;
