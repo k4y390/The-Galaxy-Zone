@@ -406,6 +406,18 @@ background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 }
+div#cometgal-box1{
+background: url(https://cdn.esahubble.org/archives/images/screen/heic0705a.jpg);
+border: white 3.5px solid;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
 .light{
 background-color: darkslateblue;
 }
