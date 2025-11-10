@@ -9,10 +9,12 @@ body {
 ul {
   display: inline-block;
   list-style: none;
+  color: white;
 }
 nav ul{
 display: flex;
 list-style: none;
+color: white;
 }
 li {
   margin: 10px;
