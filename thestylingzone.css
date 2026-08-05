@@ -671,3 +671,15 @@ background-color: black;
 h1 + p + div{
 text-align: center;
 }
+div#bwgal-box1{
+background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjjkFDWRG9_pYaaRuLRpLvTWxrFz6MUlCvwvYM55b_Bw&s=10");
+border: white 3.5px solid;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
