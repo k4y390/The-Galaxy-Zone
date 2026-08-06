@@ -735,6 +735,18 @@ width: 370px;
 height: 370px;
 border: white 2.5px solid;
 }
+div#somgal-box1{
+background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9NDxCj-lyEP6f7QsxiTUTy4TABCZyB3vRkUQSnVlkag&s=10");
+border: white 3.5px solid;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
 img#somgal1{
 width: 370px;
 height: 370px;
